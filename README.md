@@ -4,7 +4,4 @@
 🧑‍💻 Student at [Reboot01](https://reboot01.com) Coding Institute  
 🚀 Currently learning Go by building projects  
 🍔 Love cheeseburgers
-<!---
-alimjeeed/alimjeeed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📫 Feel free to reach me out ali.majeed01@outlook.com
