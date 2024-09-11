@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Ali
 
 💻 Computer Science Student @ University of Bahrain  
-🌱 Student at [Reboot01](https://reboot01.com) Coding Institute  
+🧑‍💻 Student at [Reboot01](https://reboot01.com) Coding Institute  
 🚀 Currently learning Go by building projects  
 🍔 Love cheeseburgers
 <!---
